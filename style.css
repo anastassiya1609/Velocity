@@ -215,9 +215,6 @@ p{
     color: #676770;
 }
 
-.services {
-}
-
 .services .cards-wrapper {
     display: flex;
     justify-content: space-between;
@@ -235,10 +232,10 @@ p{
 }
 
 .services .card h4{
-margin-bottom: 23px;
-font-size: 20px;
-line-height: 150%;
-letter-spacing: 0.35em;
-text-transform: uppercase;
+    margin-bottom: 23px;
+    font-size: 20px;
+    line-height: 150%;
+    letter-spacing: 0.35em;
+    text-transform: uppercase;
 }
 
